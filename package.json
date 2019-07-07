@@ -1,6 +1,13 @@
 {
     "name": "myprojecteuler",
-    "version": "0.0.1",
+    "author": "Timo Mätäsaho",
+    "license": "ISC",
+    "version": "0.0.3",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/timjam/project-euler.git"
+    },
+    "homepage": "https://github.com/timjam/project-euler",
     "devDependencies": {
         "eslint": "^5.16.0",
         "eslint-config-airbnb-base": "^13.2.0",
