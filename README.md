@@ -1,6 +1,6 @@
 # Project Euler solutions
 
-My take on Project Euler problems. First doing the 50 first problems with plain ES6 JavaScript. Currently doing Javascript solutions, but might do other languages later. Also this is a test bench where I try and use various Git procedures and other programming related techniques.
+My take on Project Euler problems. First doing the 50 first problems with plain ES6 JavaScript, but might do other languages later. Also this is a test bench where I try and use various Git procedures and other programming related techniques.
 
 ## JavaScript
 
